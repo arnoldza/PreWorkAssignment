@@ -28,13 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/24oBGPzcHN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I spent a lot of time trying to add additional features including animations and a settings page, but it lead to my project fully breaking multiple times over, hence why it took 4 hours. If I had more time to implement features, I would've added much more, but I generally felt lost throughout the duration of this pre-work assignment during the optional part. I hope to learn where I faulted throughout the duration of this course.
 
 ## License
 
